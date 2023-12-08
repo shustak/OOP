@@ -1,0 +1,52 @@
+[
+  {
+    "processor": "Processor",
+    "model": "Intel Core i7",
+    "performance": 3.5,
+    "price": 400.0
+  },
+  {
+    "motherboard": "Motherboard",
+    "model": "ATX Motherboard",
+    "socketType": "ATX",
+    "price": 150.0
+  },
+  {
+    "graphicsCard": "GraphicsCard",
+    "model": "NVIDIA RTX 3080",
+    "videoMemory": 10,
+    "performance": 300.0,
+    "price": 800.0
+  },
+  {
+    "memory": "Memory",
+    "model": "DDR4",
+    "capacity": 16,
+    "speed": 3200.0,
+    "price": 150.0
+  },
+  {
+    "storage": "Storage",
+    "model": "SSD",
+    "storageType": "SSD",
+    "capacity2": 1000,
+    "price": 200.0
+  },
+  {
+    "powerSupply": "PowerSupply",
+    "model": "Corsair 750W",
+    "wattage": 750,
+    "price": 100.0
+  },
+  {
+    "case": "Case",
+    "model": "ATX Tower Case",
+    "formFactor": "ATX",
+    "price": 150.0
+  },
+  {
+    "type": "OtherComponent",
+    "model": "Additional Component",
+    "price": 50.0
+  }
+]

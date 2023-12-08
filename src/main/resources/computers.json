@@ -1,0 +1,84 @@
+[
+  {
+    "name": "Gaming PC",
+    "processor": {
+      "model": "Intel i7",
+      "performance": 3.5,
+      "price": 500
+    },
+    "motherboard": {
+      "model": "Gigabyte 1050",
+      "formFactor": "ATX",
+      "price": 800
+    },
+    "graphicsCard": {
+      "model": "NVIDIA GTX 3080",
+      "videoMemory": 8,
+      "performance": 9.0,
+      "price": 800
+    },
+    "memory": {
+      "model": "Corsair Vengeance",
+      "capacity": 16,
+      "speed": 3200,
+      "price": 120
+    },
+    "storage": {
+      "model": "Samsung 970 EVO",
+      "type": "SSD",
+      "capacity2": 1000,
+      "price": 150
+    },
+    "powerSupply": {
+      "model": "EVGA SuperNOVA",
+      "wattage": 750,
+      "price": 100
+    },
+    "pcCase": {
+      "model": "NZXT H510",
+      "formFactor": "ATX",
+      "price": 80
+    }
+  },
+  {
+    "name": "Office PC",
+    "processor": {
+      "model": "AMD Ryzen 5",
+      "performance": 3.0,
+      "price": 300
+    },
+    "motherboard": {
+      "model": "Gigabyte 1080",
+      "formFactor": "MiniITX",
+      "price": 750
+    },
+    "graphicsCard": {
+      "model": "Integrated",
+      "videoMemory": 2,
+      "performance": 4.0,
+      "price": 0
+    },
+    "memory": {
+      "model": "Crucial Ballistix",
+      "capacity": 8,
+      "speed": 2666,
+      "price": 70
+    },
+    "storage": {
+      "model": "Seagate Barracuda",
+      "type": "HDD",
+      "capacity2": 500,
+      "price": 40
+    },
+    "powerSupply": {
+      "model": "Corsair CX450",
+      "wattage": 450,
+      "price": 60
+    },
+    "pcCase": {
+      "model": "Cooler Master Q300L",
+      "formFactor": "MiniITX",
+      "price": 50
+    }
+  }
+]
